@@ -1,0 +1,47 @@
+body {
+  font-size: 40px;
+  font-family: monospace;
+  background-color: black;
+  color: antiquewhite;
+}
+
+.choice {
+  display: inline-block;
+}
+#title {
+  font-size: 45px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#generate {
+  display: inline-block;
+  font-size: 30px;
+  font-family: monospace;
+  background-color: black;
+  color: chartreuse;
+}
+#password {
+  height: 50px;
+}
+.check {
+  height: 25px;
+  width: 25px;
+  accent-color: chartreuse;
+}
+#num_of_char {
+  width: 50px;
+  height: 25px;
+  font-size: 20px;
+}
+#password {
+  color: antiquewhite;
+}
+#main {
+  margin-left: 37%;
+  margin-top: 200px;
+}
+#copy {
+  font-size: 30px;
+  font-family: monospace;
+  background-color: black;
+  color: rgb(11, 138, 185);
+}
