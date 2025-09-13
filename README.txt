@@ -9,3 +9,4 @@ How to Use :
 3 Enter the length of the password.
 4 Click Generate Password to create a new password.
 5 Click Copy to copy the password to the clipboard.
+link to site https://bugganehuman.github.io/password-generator/
